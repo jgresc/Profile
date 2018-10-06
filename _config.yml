@@ -6,12 +6,12 @@ description:
 
 # User settings
 username: Welcome
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: During my studies I worked for 3 years in a large company in the field of Business Intelligence. In my master's degree I focused on the topics Machine Learning and Blockchain, which I applied in my final theses. Furthermore, in cooperation with a start-up company, an Android app was developed. It was connected to a Rasberry Pi via Bluetooth, which was attached to motion sensors at the same time to classify the wearer's movement using machine learning. The use case was a sports app that could monitor whether you were doing exercises correctly.
 user_title: I am Jerinas Gresch - BI Analyst & Software Developer
 email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  https://github.com/jgresc
-gplus_username:  lorem_ipsum
+twitter_username:
+github_username: 
+gplus_username:  
 
 # Google-analytics
 google-analytics:
